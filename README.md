@@ -831,14 +831,14 @@ The project combines:
 
 ## Contact
 
-- **GitHub:** https://github.com/arefbakali
-- **LinkedIn:** https://www.linkedin.com/in/aref-bak-ali/
-- **Email:** aref.bak-ali@dauphine.eu
-- **Portfolio:** https://portfolio-aref.vercel.app/
+- **GitHub:** http://github.com/Siwar-Ben-Mustapha
+- **LinkedIn:**  linkedin.com/in/siwar-ben-mustapha
+- **Email:** siwar.ben-mustapha@dauphine.eu
+- **Portfolio:**  www.siwarbenmustapha.me
 
 ## Author
 
-**Aref Bak Ali**  
+**Siwar Ben Mustapha**  
 AI, Data Science & Agentic AI Student  
 Université Paris Dauphine-PSL
 
